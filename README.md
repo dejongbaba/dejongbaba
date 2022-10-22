@@ -1,17 +1,34 @@
 <h1>Hi 👋, I'm Agunbiade Adedeji</h1>
-<h3>A passionate Senior frontend developer from Lagos</h3>
+<h2>A passionate senior frontend developer from lagos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejongbaba&label=Profile%20views&color=0e75b6&style=flat" alt="dejongbaba" /> </p>
 
 
 
-- 👨‍💻 All of my projects are available at [https://www.luccithedev.com](https://www.luccithedev.com)
+<p>All of my projects are available at https://www.luccithedev.com </p>
 
-- 💬 Ask me about **react ,vue, angular, node, nest**
 
-- 📫 How to reach me **agunbiade.adedeji94@gmail.com**
+<h3 align="left">💻 Source code to projects i've worked on </h3>
 
-- ⚡ Fun fact **i recently started going out during the weekends with friends**
+- Patek Food Shopping app - [https://github.com/dejongbaba/patek-food](https://github.com/dejongbaba/patek-food)
+- My Portofolio - [https://github.com/dejongbaba/portfolio](https://github.com/dejongbaba/portfolio)
+- Pangaea Mini Cart - [https://github.com/dejongbaba/pangaeaAssignment](https://github.com/dejongbaba/pangaeaAssignment)
+  
+
+<h3 align="left">👨‍💻 Projects i've worked on that are currently in production:</h3>
+
+- Backupcash - [https://mybackupcash.com/](https://mybackupcash.com/) 
+- Edusponsor - [https://www.edusponsor.com/](https://www.edusponsor.com/)
+- Mtn Yellow Star games - [http://yellostar-staging.humbergames.com/](http://yellostar-staging.humbergames.com/)
+- Patek Agricultural firm - [https://patek.netlify.app/](https://patek.netlify.app/) |  [https://www.patecgroup.com/about](https://www.patecgroup.com/about)
+- Patek Food Shopping - [https://patekfood.netlify.app/](https://patekfood.netlify.app/)
+  
+
+ 💬 Ask me about **react ,react native, vue, angular, node, nest**
+
+ 📫 How to reach me **agunbiade.adedeji94@gmail.com**
+
+ ⚡ Fun fact **i recently started going out during the weekends with friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
