@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Agunbiade Adedeji</h1>
-<h2>A passionate senior frontend developer from lagos</h3>
+<h2>A passionate javascript engineer from lagos</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dejongbaba&label=Profile%20views&color=0e75b6&style=flat" alt="dejongbaba" /> </p>
 
