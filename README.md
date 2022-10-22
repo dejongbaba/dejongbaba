@@ -5,7 +5,7 @@
 
 
 
-- 👨‍💻 All of my projects are available at [http://www.agunbiadeadedeji.netlify.app](http://www.agunbiadeadedeji.netlify.app)
+- 👨‍💻 All of my projects are available at [https://www.luccithedev.com](https://www.luccithedev.com)
 
 - 💬 Ask me about **react ,vue, angular, node, nest**
 
