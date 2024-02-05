@@ -5,7 +5,7 @@
 
 
 
-<p>All of my projects are available at https://www.luccithedev.com </p>
+<p>All of my projects are available at https://www.luccithedev.netlify.app </p>
 
 
 <h3 align="left">💻 Source code to projects i've worked on </h3>
