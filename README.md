@@ -5,31 +5,31 @@
 
 
 
-<p>All of my projects are available at <a href="https://www.luccithedev.netlify.app" target="_blank">https://www.luccithedev.netlify.app</a> </p>
+<p>All of my projects are available at http://www.luccithedev.netlify.app </p>
 
 
 <h3 align="left">💻 Source code to projects i've worked on </h3>
 
-- Patek Food Shopping app - [https://github.com/dejongbaba/patek-food](https://github.com/dejongbaba/patek-food){:target="_blank"}
-- My Portofolio - [https://github.com/dejongbaba/portfolio](https://github.com/dejongbaba/portfolio){:target="_blank"}
-- Pangaea Mini Cart - [https://github.com/dejongbaba/pangaeaAssignment](https://github.com/dejongbaba/pangaeaAssignment){:target="_blank"}
+- Patek Food Shopping app - [https://github.com/dejongbaba/patek-food](https://github.com/dejongbaba/patek-food)
+- My Portofolio - [https://github.com/dejongbaba/portfolio](https://github.com/dejongbaba/portfolio)
+- Pangaea Mini Cart - [https://github.com/dejongbaba/pangaeaAssignment](https://github.com/dejongbaba/pangaeaAssignment)
   
 
 <h3 align="left">👨‍💻 Projects i've worked on that are currently in production:</h3>
 
-- Backupcash - [https://mybackupcash.com/](https://mybackupcash.com/){:target="_blank"} 
-- Edusponsor - [https://www.edusponsor.com/](https://www.edusponsor.com/){:target="_blank"}
-- Mtn Yellow Star games - [http://yellostar-staging.humbergames.com/](http://yellostar-staging.humbergames.com/){:target="_blank"}
-- Patek Agricultural firm - [https://patek.netlify.app/](https://patek.netlify.app/){:target="_blank"} |  [https://www.patecgroup.com/about](https://www.patecgroup.com/about){:target="_blank"}
-- Patek Food Shopping - [https://patekfood.netlify.app/](https://patekfood.netlify.app/){:target="_blank"}
-- New Arena Shopping Mall - [[https://patekfood.netlify.app/](https://patekfood.netlify.app/)](https://new-arena.vercel.app){:target="_blank"}
-- Sendbox Co. - [[https://business.sendbox.co/](https://business.sendbox.co/)](https://business.sendbox.co){:target="_blank"}
+- Backupcash - [https://mybackupcash.com/](https://mybackupcash.com/) 
+- Edusponsor - [https://www.edusponsor.com/](https://www.edusponsor.com/)
+- Mtn Yellow Star games - [http://yellostar-staging.humbergames.com/](http://yellostar-staging.humbergames.com/)
+- Patek Agricultural firm - [https://patek.netlify.app/](https://patek.netlify.app/) |  [https://www.patecgroup.com/about](https://www.patecgroup.com/about)
+- Patek Food Shopping - [https://patekfood.netlify.app/](https://patekfood.netlify.app/)
+- New Arena Shopping Mall - [[https://patekfood.netlify.app/](https://patekfood.netlify.app/)](https://new-arena.vercel.app)
+- Sendbox Co. - [[https://business.sendbox.co/](https://business.sendbox.co/)](https://business.sendbox.co)
 
 
 
  💬 Contributing to  
  
- - Agenta AI - [[https://github.com/Agenta-AI/agenta/](https://github.com/Agenta-AI/agenta/)](https://github.com/Agenta-AI/agenta/){:target="_blank"}
+ - Agenta AI - [[https://github.com/Agenta-AI/agenta/](https://github.com/Agenta-AI/agenta/)](https://github.com/Agenta-AI/agenta/)
 
 
  💬 Ask me about **react ,react native, vue, angular, node, nest**
